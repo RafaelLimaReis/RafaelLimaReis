@@ -2,6 +2,8 @@
 - 👀 Atualmente sou desenvolvedor front-end 
 - 🌱 Atualmente melhorando as habiliades em css e conhecendo o react
 
+<a href="https://rafaellimareis.github.io/portfolio/" target="_blank">Portfolio ainda em contrução</a> 
+
 <div>
   <a href="https://github.com/RafaelLimaReis">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaelLimaReis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
