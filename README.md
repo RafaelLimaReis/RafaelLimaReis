@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Rafael Lima
-- 👀 Atualmente sou desenvolvedor front-end 
+- 👀 Desenvolvedor front-end 
 - 🌱 Atualmente melhorando as habiliades em css e conhecendo o react
 
 <a href="https://rafaellimareis.github.io/portfolio/" target="_blank">Portfolio ainda em contrução</a> 
